@@ -1,4 +1,7 @@
-/* Universal selector for entire page. font will be Verdana based on mock for all content */
 * {
   font-family: Verdana;
-}
+} /* Universal selector for entire page. font will be Verdana based on mock for all content */
+
+body {
+  background-color: black;
+}  
