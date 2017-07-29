@@ -9,7 +9,7 @@ body {
 
 .top {
   color: white;
-  font-weight: normal;
+  font-weight: bold;
   font-size: 50px;
 }
 
@@ -31,11 +31,12 @@ body {
 
 .coming-soon {
   color: white;
-  font-weight: normal;
-  font-size: 50px;
+  font-weight: 300;
+  font-size: 42px;
 }
 
 .copyright {
   color: Gray;
   text-align: right;
+  font-weight: 300;
 }
