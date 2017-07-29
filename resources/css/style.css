@@ -16,5 +16,26 @@ body {
 .download {
   color: Aquamarine;
   font-size: 16px;
-  text-decoration-line: underline;
+}
+
+.guide {
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.description {
+  color: Gray;
+  font-size: 21px;
+}
+
+.coming-soon {
+  color: white;
+  font-weight: normal;
+  font-size: 50px;
+}
+
+.copyright {
+  color: Gray;
+  text-align: right;
 }
