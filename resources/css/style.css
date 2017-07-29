@@ -5,3 +5,16 @@
 body {
   background-color: black;
 }  
+
+.top {
+  color: white;
+  font-weight: normal;
+  font-size: 50px;
+  text-align: centered;
+}
+
+.download {
+  color: Aquamarine;
+  font-size: 16px;
+  text-underline-position: under;
+}
