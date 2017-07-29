@@ -2,7 +2,7 @@
   font-family: Verdana;
 } /* Universal selector for entire page. font will be Verdana based on mock for all content */
 
-body {
+html {
   background-color: black;
 }  
 
