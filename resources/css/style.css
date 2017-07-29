@@ -1,6 +1,7 @@
 * {
   font-family: Verdana;
-} /* Universal selector for entire page. font will be Verdana based on mock for all content */
+  text-align: center;
+} /* Universal selector for entire page. font will be Verdana based on mock for all content and centered alignment */
 
 body {
   background-color: black;
@@ -10,12 +11,10 @@ body {
   color: white;
   font-weight: normal;
   font-size: 50px;
-  text-align: center;
 }
 
 .download {
   color: Aquamarine;
   font-size: 16px;
   text-decoration-line: underline;
-  text-align: center;
 }
